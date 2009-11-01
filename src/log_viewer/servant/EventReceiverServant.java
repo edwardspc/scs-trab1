@@ -11,7 +11,7 @@ import org.omg.CORBA.Any;
 import scs.core.servant.ComponentContext;
 
 /**
- *
+ * Faceta que se conecta com el componente LogMonitor
  * @author snbuback
  */
 public class EventReceiverServant extends EventSinkPOA {
